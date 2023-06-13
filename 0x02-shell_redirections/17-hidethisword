@@ -1,0 +1,2 @@
+#!/bin/bash
+gteo -v "bin" /etc/passwd
